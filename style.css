@@ -10,6 +10,7 @@ body {
   align-items: center;
   flex-direction: column;
   font-family: Arial, sans-serif;
+  background-color: rgba(49, 175, 248, 0.471);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -56,6 +57,7 @@ body {
   overflow: hidden;
   padding: 5px 10px;
   backdrop-filter: blur(1px);
+  border: 0.5px solid rgb(0, 0, 0);
 }
 
 .search-bar input {
